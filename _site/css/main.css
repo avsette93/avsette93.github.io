@@ -122,9 +122,10 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-color: purple;
+  background-color: white;
+  background-image: url("../img/party.jpg");
   text-align: center;
-  color: white; }
+  color: black; }
   header .header-content {
     position: relative;
     text-align: center;

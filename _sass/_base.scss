@@ -155,10 +155,10 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-color: purple;
-    // background-image: url('../img/header.jpg');
+    background-color: white;
+    background-image: url('../img/party.jpg');
     text-align: center;
-    color: white;
+    color: black;
     .header-content {
         position: relative;
         text-align: center;
