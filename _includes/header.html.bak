@@ -1,0 +1,16 @@
+<header>
+    <div class="header-content">
+        <div class="header-content-inner">
+            <h1>NiteMateApp</h1>
+            <hr>
+			<body>
+				
+			</body>
+            <p><b>Discover your nightlife by finding events and venues near you!</b></p>
+			<h2><b>Available for free</b></h2>
+            <a href="#about" class="btn page-scroll"><img src = "/img/app-store-logo.png"></a>
+            <a href="#about" class="btn page-scroll"><img src = "/img/google-play-logo.png"></a>
+			
+        </div>
+    </div>
+</header>
